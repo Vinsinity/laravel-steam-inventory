@@ -1,8 +1,8 @@
 {
-    "name": "invisnik/laravel-steam-inventory",
+    "name": "vinsinity/laravel-steam-inventory",
     "description": "Laravel Steam Inventory",
     "keywords": ["steam", "laravel", "inventory", "steam inventory", "steam api"],
-    "homepage": "https://github.com/invisnik/laravel-steam-inventory",
+    "homepage": "https://github.com/vinsinity/laravel-steam-inventory",
     "license": "MIT",
     "authors": [
         {
